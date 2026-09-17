@@ -1,104 +1,46 @@
-<div align="center">
+# Abhay Jaiswal
 
-<img src="./assets/header.svg" width="100%" alt="Abhay Jaiswal — Backend Engineer" />
+**Backend Engineer** working across Java, distributed systems, reliability, search, and applied AI.
 
-<br/>
+I use GitHub as my engineering workspace — experiments, production-minded systems, architecture ideas, and things I am actively learning.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://abhay-portfolioo.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Abhay123abhi-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhay123abhi)
-
-</div>
+[Portfolio](https://abhay-portfolioo.netlify.app/) · [Repositories](https://github.com/Abhay123abhi?tab=repositories)
 
 ---
 
-## About
-
-Backend-heavy software engineer with **4+ years of production experience**, building scalable APIs, event-driven workflows, reliable data paths, and production-ready delivery pipelines.
-
-I work mainly with **Java, Spring Boot, Kafka, Redis, PostgreSQL, Docker, Kubernetes, and React**, with a strong focus on distributed systems, observability, reliability, and performance.
-
-<table>
-<tr>
-<td align="center"><b>4+ years</b><br/>production software</td>
-<td align="center"><b>1K+</b><br/>business events / day</td>
-<td align="center"><b>25%</b><br/>faster deployment cycles</td>
-<td align="center"><b>60%</b><br/>less manual effort</td>
-</tr>
-</table>
-
-## Engineering stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Backend
-`Java 8–21` · `Spring Boot` · `Spring Security` · `JPA` · `Hibernate` · `REST APIs` · `BFF`
-
-### Distributed systems
-`Kafka` · `Redis` · `Transactional Outbox` · `Idempotency` · `Retry / DLQ` · `Eventual Consistency`
-
-</td>
-<td valign="top" width="50%">
-
-### Data
-`PostgreSQL` · `MySQL` · `MongoDB` · `Indexing` · `Query Optimization`
-
-### Delivery & reliability
-`Docker` · `Kubernetes` · `Jenkins` · `Prometheus` · `Grafana` · `Loki` · `Tempo` · `Splunk`
-
-</td>
-</tr>
-</table>
-
-## Selected systems
-
-| Project | Engineering focus | Core stack |
-|---|---|---|
-| **[Event-Driven Incident Observability](https://github.com/Abhay123abhi/event-driven-incident-observability)** | Incident investigation, transactional outbox, retries, alert deduplication, persistence, retention, metrics/logs/traces | Java · Spring Boot · Kafka · PostgreSQL · Prometheus · Loki · Tempo · Grafana |
-| **[AI-Powered News Intelligence](https://github.com/Abhay123abhi/ai-powered-news-intelligence)** | Multi-source aggregation, parallel provider calls, Redis caching, AI summaries, article Q&A, cross-publisher comparison | Java 21 · Spring Boot · Redis · React · Gemini |
-| **[Chat App](https://github.com/Abhay123abhi/chat-app)** | Real-time messaging and containerized full-stack delivery | React · Node.js · MongoDB · Docker |
-| **[Personal Portfolio](https://github.com/Abhay123abhi/personal-portfolio)** | Engineering-focused portfolio with a system-design-inspired interface | React · Vite · Netlify |
-
-## How I think about systems
+## Now
 
 ```text
-Request
-   │
-   ▼
-API / BFF ─────► Cache
-   │
-   ├───────────► Kafka ─────► Workers
-   │                           │
-   ▼                           ▼
-Database                 External systems
-   │                           │
-   └──── metrics · logs · traces ────► Observability
+building     → AI-powered news intelligence
+exploring    → RAG · retrieval · LLM systems
+learning     → distributed systems internals
+thinking     → reliability · search · scale
 ```
 
-I care about what happens beyond the happy path: retries, duplicate events, partial failures, timeouts, backpressure, idempotency, deployment safety, and debuggability in production.
+## Recent GitHub activity
 
-## Current focus
+<!--START_SECTION:activity-->
+_Recent public engineering activity will appear here._
+<!--END_SECTION:activity-->
 
-`Distributed Systems` · `System Design` · `Search` · `AI Engineering` · `RAG` · `Production Reliability`
+## Engineering interests
 
-Going deeper into retrieval quality, LLM-backed applications, intelligent search, scalable system design, and reliability patterns that hold up under real production failure modes.
+I keep coming back to problems around **event-driven systems, failure handling, observability, search, caching, concurrency, data consistency, and AI-backed product features**.
 
-## GitHub activity
+Right now I am especially interested in how retrieval quality, system reliability, and backend architecture change once LLMs become part of the request path.
 
-<div align="center">
+## Toolbox
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhay123abhi&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="155" alt="Abhay's GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhay123abhi&hide_border=true&theme=transparent" height="155" alt="Abhay's GitHub streak" />
+`Java` · `Spring Boot` · `Kafka` · `Redis` · `PostgreSQL` · `MySQL` · `Docker` · `Kubernetes` · `React`
 
-</div>
+## What you will find here
+
+- backend and distributed-system projects
+- production reliability experiments
+- system-design implementations
+- search and AI engineering work
+- full-stack projects where the backend remains the heavy part
 
 ---
 
-<div align="center">
-
-### Build systems that stay reliable when things stop being ideal.
-
-**Backend Engineering · Distributed Systems · Applied AI · Gurugram, India**
-
-</div>
+<sub>For the polished career view, project walkthroughs, and experience details → <a href="https://abhay-portfolioo.netlify.app/">portfolio</a>.</sub>
