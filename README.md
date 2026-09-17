@@ -1,20 +1,21 @@
-# Abhay Jaiswal
+<div align="center">
 
-**Backend Engineer** working across Java, distributed systems, reliability, search, and applied AI.
+<img src="./assets/premium-header.svg" width="100%" alt="Abhay Jaiswal" />
 
-I use GitHub as my engineering workspace — experiments, production-minded systems, architecture ideas, and things I am actively learning.
+<br/>
 
-[Portfolio](https://abhay-portfolioo.netlify.app/) · [Repositories](https://github.com/Abhay123abhi?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://abhay-portfolioo.netlify.app/)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhay123abhi?tab=repositories)
 
----
+</div>
 
 ## Now
 
-```text
-building     → AI-powered news intelligence
-exploring    → RAG · retrieval · LLM systems
-learning     → distributed systems internals
-thinking     → reliability · search · scale
+```bash
+building   : AI-powered news intelligence
+exploring  : RAG · retrieval · LLM systems
+learning   : distributed systems internals
+thinking   : reliability · search · scale
 ```
 
 ## Recent GitHub activity
@@ -23,23 +24,40 @@ thinking     → reliability · search · scale
 _Recent public engineering activity will appear here._
 <!--END_SECTION:activity-->
 
-## Engineering interests
+## Focus areas
 
-I keep coming back to problems around **event-driven systems, failure handling, observability, search, caching, concurrency, data consistency, and AI-backed product features**.
-
-Right now I am especially interested in how retrieval quality, system reliability, and backend architecture change once LLMs become part of the request path.
+- event-driven systems
+- failure handling and observability
+- search, caching, and concurrency
+- AI-backed product features
+- backend-heavy full-stack projects
 
 ## Toolbox
 
 `Java` · `Spring Boot` · `Kafka` · `Redis` · `PostgreSQL` · `MySQL` · `Docker` · `Kubernetes` · `React`
 
-## What you will find here
+## What you'll find here
 
-- backend and distributed-system projects
-- production reliability experiments
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Building
+- production-minded backend systems
+- AI engineering experiments
 - system-design implementations
-- search and AI engineering work
-- full-stack projects where the backend remains the heavy part
+
+</td>
+<td width="50%" valign="top">
+
+### Sharing
+- architecture ideas
+- reliability patterns
+- search and retrieval work
+
+</td>
+</tr>
+</table>
 
 ---
 
