@@ -1,0 +1,75 @@
+<svg width="1000" height="240" viewBox="0 0 1000 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="72" y1="94" x2="340" y2="94" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34D399"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="240" rx="26" fill="url(#bg)"/>
+  <rect x="1" y="1" width="998" height="238" rx="25" stroke="#1F2937"/>
+
+  <g opacity="0.10" stroke="#94A3B8">
+    <path d="M620 36H930"/>
+    <path d="M620 66H930"/>
+    <path d="M620 96H930"/>
+    <path d="M620 126H930"/>
+    <path d="M620 156H930"/>
+    <path d="M620 186H930"/>
+    <path d="M670 20V216"/>
+    <path d="M745 20V216"/>
+    <path d="M820 20V216"/>
+    <path d="M895 20V216"/>
+  </g>
+
+  <circle cx="905" cy="42" r="3" fill="#34D399" opacity="0.9">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="923" cy="42" r="3" fill="#38BDF8" opacity="0.7">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="941" cy="42" r="3" fill="#818CF8" opacity="0.55">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="72" y="78" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="700">Abhay Jaiswal</text>
+  <rect x="72" y="94" width="268" height="1.5" rx="0.75" fill="url(#accent)"/>
+  <circle cx="72" cy="94.75" r="3.5" fill="#34D399" filter="url(#softGlow)">
+    <animateMotion dur="5.8s" repeatCount="indefinite" path="M0 0 H268"/>
+  </circle>
+
+  <text x="72" y="122" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Backend Engineer · Distributed Systems · Applied AI</text>
+  <text x="72" y="152" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">GitHub workspace for systems, experiments, reliability patterns, and active learning.</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#E2E8F0">
+    <rect x="72" y="174" width="96" height="28" rx="14" fill="#111827" stroke="#1F2937"/>
+    <text x="120" y="192" text-anchor="middle">Java</text>
+    <rect x="178" y="174" width="124" height="28" rx="14" fill="#111827" stroke="#1F2937"/>
+    <text x="240" y="192" text-anchor="middle">Spring Boot</text>
+    <rect x="312" y="174" width="88" height="28" rx="14" fill="#111827" stroke="#1F2937"/>
+    <text x="356" y="192" text-anchor="middle">Kafka</text>
+    <rect x="410" y="174" width="90" height="28" rx="14" fill="#111827" stroke="#1F2937"/>
+    <text x="455" y="192" text-anchor="middle">Redis</text>
+  </g>
+
+  <g transform="translate(625 62)">
+    <rect width="300" height="118" rx="18" fill="#0F172A" stroke="#1E293B"/>
+    <text x="24" y="28" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">$ status</text>
+    <text x="24" y="56" fill="#E2E8F0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">building   : AI-powered news intelligence</text>
+    <text x="24" y="77" fill="#E2E8F0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">exploring  : RAG / retrieval / LLM systems</text>
+    <text x="24" y="98" fill="#E2E8F0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">thinking   : reliability / search / scale</text>
+    <rect x="246" y="15" width="12" height="2.8" rx="1.4" fill="#34D399">
+      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
