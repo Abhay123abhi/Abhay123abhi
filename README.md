@@ -21,7 +21,7 @@ thinking   : reliability · search · scale
 ## Recent GitHub activity
 
 <!--START_SECTION:activity-->
-_Recent public engineering activity will appear here._
+1. 💪 Opened PR [#33](https://github.com/Abhay123abhi/event-driven-incident-observability/pull/33) in [Abhay123abhi/event-driven-incident-observability](https://github.com/Abhay123abhi/event-driven-incident-observability)
 <!--END_SECTION:activity-->
 
 ## Focus areas
