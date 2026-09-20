@@ -9,55 +9,49 @@
 
 </div>
 
-## Now
+## Engineering focus
 
-```bash
-building   : AI-powered news intelligence
-exploring  : RAG · retrieval · LLM systems
-learning   : distributed systems internals
-thinking   : reliability · search · scale
+```text
+backend     : APIs · microservices · event-driven architecture
+systems     : system design · reliability · observability · scale
+applied AI  : RAG · retrieval · vector search · LLM integration
+learning    : distributed systems internals · performance · AI engineering
 ```
 
-## Recent GitHub activity
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/Abhay123abhi/event-driven-incident-observability/pull/33) in [Abhay123abhi/event-driven-incident-observability](https://github.com/Abhay123abhi/event-driven-incident-observability)
-<!--END_SECTION:activity-->
-
-## Focus areas
-
-- event-driven systems
-- failure handling and observability
-- search, caching, and concurrency
-- AI-backed product features
-- backend-heavy full-stack projects
-
-## Toolbox
-
-`Java` · `Spring Boot` · `Kafka` · `Redis` · `PostgreSQL` · `MySQL` · `Docker` · `Kubernetes` · `React`
-
-## What you'll find here
+## What I work on
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Building
-- production-minded backend systems
-- AI engineering experiments
-- system-design implementations
+### Backend & distributed systems
+
+Production-minded services, event-driven workflows, caching, concurrency, data access, failure handling, observability, and performance.
 
 </td>
 <td width="50%" valign="top">
 
-### Sharing
-- architecture ideas
-- reliability patterns
-- search and retrieval work
+### Applied AI & exploration
+
+Embeddings, RAG, vector retrieval, search, and LLM-backed capabilities integrated into reliable backend systems.
 
 </td>
 </tr>
 </table>
+
+## Toolbox
+
+**Backend** — `Java` · `Spring Boot` · `Spring Security` · `REST` · `Microservices`
+
+**Data & messaging** — `Kafka` · `Redis` · `PostgreSQL` · `MySQL` · `OpenSearch`
+
+**Platform & reliability** — `Docker` · `Kubernetes` · `AWS` · `Prometheus` · `Grafana`
+
+**Frontend** — `React` · `Ionic`
+
+## Engineering mindset
+
+`design for failure` · `measure before optimizing` · `keep boundaries clear` · `make AI grounded and observable`
 
 ---
 
