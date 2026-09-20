@@ -49,7 +49,7 @@
   </circle>
 
   <text x="72" y="122" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Backend Engineer · Distributed Systems · Applied AI</text>
-  <text x="72" y="152" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">GitHub workspace for systems, experiments, reliability patterns, and active learning.</text>
+  <text x="72" y="152" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Engineering reliable systems while continuously exploring scale, search, and AI.</text>
 
   <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" fill="#E2E8F0">
     <rect x="72" y="174" width="96" height="28" rx="14" fill="#111827" stroke="#1F2937"/>
@@ -64,10 +64,10 @@
 
   <g transform="translate(625 62)">
     <rect width="300" height="118" rx="18" fill="#0F172A" stroke="#1E293B"/>
-    <text x="24" y="28" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">$ status</text>
-    <text x="24" y="56" fill="#E2E8F0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">building   : AI-powered news intelligence</text>
-    <text x="24" y="77" fill="#E2E8F0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">exploring  : RAG / retrieval / LLM systems</text>
-    <text x="24" y="98" fill="#E2E8F0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">thinking   : reliability / search / scale</text>
+    <text x="24" y="28" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12">$ focus</text>
+    <text x="24" y="56" fill="#E2E8F0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">backend    : systems / APIs / events</text>
+    <text x="24" y="77" fill="#E2E8F0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">AI         : RAG / retrieval / LLMs</text>
+    <text x="24" y="98" fill="#E2E8F0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">learning   : reliability / scale / internals</text>
     <rect x="246" y="15" width="12" height="2.8" rx="1.4" fill="#34D399">
       <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
     </rect>
