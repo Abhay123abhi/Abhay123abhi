@@ -4,19 +4,18 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://abhay-portfolioo.netlify.app/)
-[![Repositories](https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhay123abhi?tab=repositories)
-[![Contributions](https://img.shields.io/badge/Open_Source-Contributions-7C3AED?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3AAbhay123abhi+-user%3AAbhay123abhi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://abhay-portfolioo.netlify.app/)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhay123abhi?tab=repositories)
+[![Contributions](https://img.shields.io/badge/Open_Source-Contributions-111827?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3AAbhay123abhi+-user%3AAbhay123abhi)
 
 </div>
 
 ## `/focus` · Engineering focus
 
 ```text
-backend     : APIs · concurrency · event-driven architecture
-systems     : reliability · observability · system design
-applied AI  : RAG · embeddings · vector retrieval · LLM integration
-frontend    : React · real-time interfaces · full-stack delivery
+backend     : APIs · microservices · event-driven architecture
+systems     : system design · reliability · observability · scale
+applied AI  : RAG · retrieval · vector search · LLM integration
 learning    : distributed systems internals · performance · AI engineering
 ```
 
