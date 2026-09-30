@@ -4,13 +4,13 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://abhay-portfolioo.netlify.app/)
-[![Repositories](https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhay123abhi?tab=repositories)
-[![Contributions](https://img.shields.io/badge/Open_Source-Contributions-111827?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3AAbhay123abhi+-user%3AAbhay123abhi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://abhay-portfolioo.netlify.app/)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhay123abhi?tab=repositories)
+[![Contributions](https://img.shields.io/badge/Open_Source-Contributions-7C3AED?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3AAbhay123abhi+-user%3AAbhay123abhi)
 
 </div>
 
-## Engineering focus
+## `/focus` · Engineering focus
 
 ```text
 backend     : APIs · concurrency · event-driven architecture
@@ -20,20 +20,20 @@ frontend    : React · real-time interfaces · full-stack delivery
 learning    : distributed systems internals · performance · AI engineering
 ```
 
-## What I work on
+## `/work` · What I work on
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Backend & distributed systems
+### ⚡ Backend & distributed systems
 
 Reliable APIs and event-driven workflows, with clear boundaries, caching, concurrency, failure handling, and observability.
 
 </td>
 <td width="50%" valign="top">
 
-### Applied AI & retrieval
+### ✦ Applied AI & retrieval
 
 RAG, embeddings, vector search, and LLM integrations—with grounded responses and AI kept independent of core workflows.
 
@@ -41,7 +41,7 @@ RAG, embeddings, vector search, and LLM integrations—with grounded responses a
 </tr>
 </table>
 
-## Toolbox
+## `/stack` · Toolbox
 
 **Backend** — `Java` · `Spring Boot` · `Spring Security` · `JPA / Hibernate` · `REST`
 
@@ -53,7 +53,7 @@ RAG, embeddings, vector search, and LLM integrations—with grounded responses a
 
 **Frontend** — `React` · `JavaScript` · `Ionic` · `WebSocket / STOMP`
 
-## Engineering mindset
+## `/principles` · Engineering mindset
 
 `design for failure` · `measure before optimizing` · `keep boundaries clear` · `ground AI in evidence`
 
