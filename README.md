@@ -1,15 +1,16 @@
 <div align="center">
 
-<img src="./assets/premium-header.svg" width="100%" alt="Abhay Jaiswal" />
+<img src="./assets/engineering-header.svg" width="100%" alt="Abhay Jaiswal — Backend Engineer · Distributed Systems · Applied AI" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://abhay-portfolioo.netlify.app/)
 [![Repositories](https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhay123abhi?tab=repositories)
+[![Contributions](https://img.shields.io/badge/Open_Source-Contributions-111827?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3AAbhay123abhi+-user%3AAbhay123abhi)
 
 </div>
 
-## Engineering focus
+## `/focus` · Engineering focus
 
 ```text
 backend     : APIs · microservices · event-driven architecture
@@ -18,41 +19,43 @@ applied AI  : RAG · retrieval · vector search · LLM integration
 learning    : distributed systems internals · performance · AI engineering
 ```
 
-## What I work on
+## `/work` · What I work on
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Backend & distributed systems
+### ⚡ Backend & distributed systems
 
-Production-minded services, event-driven workflows, caching, concurrency, data access, failure handling, observability, and performance.
+Reliable APIs and event-driven workflows, with clear boundaries, caching, concurrency, failure handling, and observability.
 
 </td>
 <td width="50%" valign="top">
 
-### Applied AI & exploration
+### ✦ Applied AI & retrieval
 
-Embeddings, RAG, vector retrieval, search, and LLM-backed capabilities integrated into reliable backend systems.
+RAG, embeddings, vector search, and LLM integrations—with grounded responses and AI kept independent of core workflows.
 
 </td>
 </tr>
 </table>
 
-## Toolbox
+## `/stack` · Toolbox
 
-**Backend** — `Java` · `Spring Boot` · `Spring Security` · `REST` · `Microservices`
+**Backend** — `Java` · `Spring Boot` · `Spring Security` · `JPA / Hibernate` · `REST`
 
-**Data & messaging** — `Kafka` · `Redis` · `PostgreSQL` · `MySQL` · `OpenSearch`
+**Applied AI** — `Gemini` · `RAG` · `Embeddings` · `pgvector` · `Structured output`
 
-**Platform & reliability** — `Docker` · `Kubernetes` · `AWS` · `Prometheus` · `Grafana`
+**Data & messaging** — `Kafka` · `Redis` · `PostgreSQL` · `MySQL` · `MongoDB`
 
-**Frontend** — `React` · `Ionic`
+**Platform & observability** — `Docker` · `AWS` · `Jenkins` · `Prometheus` · `Grafana` · `Loki` · `Tempo`
 
-## Engineering mindset
+**Frontend** — `React` · `JavaScript` · `Ionic` · `WebSocket / STOMP`
 
-`design for failure` · `measure before optimizing` · `keep boundaries clear` · `make AI grounded and observable`
+## `/principles` · Engineering mindset
+
+`design for failure` · `measure before optimizing` · `keep boundaries clear` · `ground AI in evidence`
 
 ---
 
-<sub>For the polished career view, project walkthroughs, and experience details → <a href="https://abhay-portfolioo.netlify.app/">portfolio</a>.</sub>
+<sub>Experience and project walkthroughs → <a href="https://abhay-portfolioo.netlify.app/">portfolio</a> · Code and architecture → <a href="https://github.com/Abhay123abhi?tab=repositories">repositories</a> · Open-source work → <a href="https://github.com/darrien1998/dsh-ditto/pull/12">merged contribution</a>.</sub>

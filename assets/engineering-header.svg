@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Abhay Jaiswal — Backend Engineer · Distributed Systems · Applied AI</title>
+<desc id="desc">A navy banner with an animated API request and response illustration. Reliable systems, grounded AI, thoughtful interfaces. The example is decorative, not a live service status.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1000" y2="240" gradientUnits="userSpaceOnUse"><stop stop-color="#0F172A"/><stop offset=".55" stop-color="#111827"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+<linearGradient id="accent" x1="64" y1="108" x2="494" y2="108" gradientUnits="userSpaceOnUse"><stop stop-color="#94A3B8"/><stop offset=".5" stop-color="#94A3B8"/><stop offset="1" stop-color="#94A3B8"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity=".07"/></pattern>
+</defs>
+<style>
+.signal{animation:signal 6s linear infinite}
+.request{animation:request 6s ease-in-out infinite}
+.response{animation:response 6s ease-in-out infinite}
+.packet{animation:packet 6s ease-in-out infinite}
+.return{animation:return 6s ease-in-out infinite}
+@keyframes signal{from{transform:translateX(0)}to{transform:translateX(424px)}}
+@keyframes request{0%,12%{opacity:.4}24%,80%{opacity:1}100%{opacity:.4}}
+@keyframes response{0%,32%{opacity:.3}48%,82%{opacity:1}100%{opacity:.3}}
+@keyframes packet{0%{opacity:0;transform:translateX(0)}12%{opacity:1;transform:translateX(0)}32%{opacity:1;transform:translateX(110px)}38%,100%{opacity:0;transform:translateX(110px)}}
+@keyframes return{0%,44%{opacity:0;transform:translateX(0)}48%{opacity:1;transform:translateX(0)}70%{opacity:1;transform:translateX(-110px)}76%,100%{opacity:0;transform:translateX(-110px)}}
+@media(prefers-reduced-motion:reduce){.signal,.request,.response,.packet,.return{animation:none}.packet,.return{display:none}.request,.response{opacity:1}}
+</style>
+<rect width="1000" height="240" rx="24" fill="url(#bg)"/>
+<rect x="578" y="16" width="400" height="208" rx="18" fill="url(#grid)"/>
+<rect x="1" y="1" width="998" height="238" rx="23" stroke="#243145"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<text x="64" y="52" font-size="11" letter-spacing="2.8" fill="#64748B">BUILD WITH INTENT</text>
+<text x="64" y="91" font-size="36" font-weight="700" letter-spacing="-.8" fill="#F8FAFC">Abhay Jaiswal</text>
+<path d="M64 108H494" stroke="url(#accent)" stroke-width="1.5"/>
+<circle class="signal" cx="67" cy="108" r="3" fill="#94A3B8"/>
+<text x="64" y="140" font-size="16" fill="#CBD5E1">Backend Engineer · Distributed Systems · Applied AI</text>
+<text x="64" y="170" font-size="14" fill="#94A3B8">Reliable systems. Grounded AI. Thoughtful interfaces.</text>
+<text x="64" y="202" font-size="12" fill="#64748B">Learning through building, measuring, and contributing.</text>
+</g>
+<rect x="600" y="38" width="336" height="174" rx="16" fill="#0B1220" stroke="#243145"/>
+<circle cx="620" cy="57" r="3" fill="#334155"/><circle cx="633" cy="57" r="3" fill="#334155"/><circle cx="646" cy="57" r="3" fill="#334155"/>
+<text x="918" y="61" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="1.4" fill="#64748B">REQUEST / RESPONSE</text>
+<path d="M601 73H935" stroke="#1E293B"/>
+<g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13">
+<g class="request"><text x="620" y="99" fill="#94A3B8">GET</text><text x="655" y="99" fill="#E2E8F0">/api/ideas</text></g>
+<g class="response">
+<text x="620" y="126" fill="#94A3B8">← 200 OK</text>
+<text x="620" y="152" fill="#94A3B8">{ "focus": "backend + AI" }</text>
+</g>
+</g>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="10" letter-spacing="1.4">
+<text x="620" y="193" fill="#64748B">CLIENT</text><text x="915" y="193" text-anchor="end" fill="#64748B">API</text>
+</g>
+<path d="M686 182H850" stroke="#334155"/>
+<path d="M846 179L850 182L846 185M690 179L686 182L690 185" stroke="#64748B"/>
+<circle class="packet" cx="708" cy="182" r="3" fill="#94A3B8" opacity="0"/>
+<circle class="return" cx="818" cy="182" r="3" fill="#94A3B8" opacity="0"/>
+</svg>
