@@ -1,58 +1,87 @@
 <div align="center">
 
-<img src="./assets/premium-header.svg" width="100%" alt="Abhay Jaiswal" />
+<img src="./assets/engineering-header.svg" width="100%" alt="Abhay Jaiswal — Backend engineering, applied AI, hands-on frontend and open source" />
 
-<br/>
+**Java & Spring Boot backend engineer · Applied AI builder · Hands-on React developer**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://abhay-portfolioo.netlify.app/)
-[![Repositories](https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhay123abhi?tab=repositories)
+I build APIs, event-driven workflows, and AI features—with attention to what happens when dependencies fail.
+
+[**Portfolio ↗**](https://abhay-portfolioo.netlify.app/) &nbsp; · &nbsp; [**Explore my repositories ↗**](https://github.com/Abhay123abhi?tab=repositories) &nbsp; · &nbsp; [**Open-source contribution ↗**](https://github.com/darrien1998/dsh-ditto/pull/12)
 
 </div>
 
-## Engineering focus
+---
 
-```text
-backend     : APIs · microservices · event-driven architecture
-systems     : system design · reliability · observability · scale
-applied AI  : RAG · retrieval · vector search · LLM integration
-learning    : distributed systems internals · performance · AI engineering
-```
+## Selected engineering work
 
-## What I work on
+### 01 / Event-Driven Incident Observability
+**From an alert to a durable investigation report.**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+A local platform that brings metrics, logs, and traces into one incident workflow. An optional AI service retrieves runbooks and past incidents with pgvector, then generates a grounded root-cause hypothesis.
 
-### Backend & distributed systems
+- **Reliability:** transactional outbox, alert deduplication, and consumers that tolerate redelivery.
+- **Observability:** Prometheus, Loki, Tempo, and Grafana; partial evidence stays visible when a source fails.
+- **Applied AI:** embeddings → vector retrieval → Gemini; hypotheses stored separately from incident truth.
 
-Production-minded services, event-driven workflows, caching, concurrency, data access, failure handling, observability, and performance.
+`Java` · `Spring Boot` · `Kafka` · `PostgreSQL / pgvector` · `Docker Compose`
 
-</td>
-<td width="50%" valign="top">
+[**Explore the project →**](https://github.com/Abhay123abhi/event-driven-incident-observability) · [RAG implementation](https://github.com/Abhay123abhi/event-driven-incident-observability/blob/main/docs/ai-investigation.md) · [Failure scenarios](https://github.com/Abhay123abhi/event-driven-incident-observability/blob/main/docs/failure-demos.md)
 
-### Applied AI & exploration
+### 02 / AI-Powered News Intelligence
+**Multiple publishers. One feed. Answers connected to their sources.**
 
-Embeddings, RAG, vector retrieval, search, and LLM-backed capabilities integrated into reliable backend systems.
+A Spring Boot + React app combining Guardian and NYT articles with Gemini summaries, Q&A, briefings, and coverage comparison.
 
-</td>
-</tr>
-</table>
+- **Backend:** concurrent provider calls, normalized results, deduplication, and Redis caching.
+- **AI integration:** structured responses and validated citation IDs, grounded in the supplied articles.
+- **Failure handling:** partial provider results, timeouts, retry backoff, and a circuit breaker; core news works with AI disabled.
 
-## Toolbox
+`Java 21` · `Spring Boot` · `React` · `Redis` · `Gemini`
 
-**Backend** — `Java` · `Spring Boot` · `Spring Security` · `REST` · `Microservices`
+[**Explore the project →**](https://github.com/Abhay123abhi/ai-powered-news-intelligence)
 
-**Data & messaging** — `Kafka` · `Redis` · `PostgreSQL` · `MySQL` · `OpenSearch`
+<details>
+<summary><b>More hands-on work — real-time communication & frontend</b></summary>
 
-**Platform & reliability** — `Docker` · `Kubernetes` · `AWS` · `Prometheus` · `Grafana`
+<br/>
 
-**Frontend** — `React` · `Ionic`
+| Project | What I built |
+| --- | --- |
+| [Room Chat](https://github.com/Abhay123abhi/chat-app) | Spring Boot + React guest chat with MongoDB persistence, STOMP/WebSocket delivery, presence, and missed-message recovery after reconnecting. |
+| [Personal Portfolio](https://github.com/Abhay123abhi/personal-portfolio) | React portfolio with project walkthroughs, experience, and a content-driven blog. [Visit the live site ↗](https://abhay-portfolioo.netlify.app/) |
 
-## Engineering mindset
+</details>
 
-`design for failure` · `measure before optimizing` · `keep boundaries clear` · `make AI grounded and observable`
+## Open source
+
+**Merged contribution · [dsh-ditto #12 — Java language adapter](https://github.com/darrien1998/dsh-ditto/pull/12)**
+
+Contributed Java support to a review-first developer tool, making Java source files available through its language-adapter system.
+
+[Browse my contributions →](https://github.com/pulls?q=is%3Apr+author%3AAbhay123abhi+-user%3AAbhay123abhi)
+
+## Where I work across the stack
+
+| Area | Technologies & focus |
+| --- | --- |
+| **Backend** | Java · Spring Boot · REST APIs · concurrency · event-driven workflows |
+| **Applied AI** | Gemini integration · RAG · embeddings · pgvector · structured output · source grounding |
+| **Data & messaging** | PostgreSQL · Redis · MongoDB · Kafka · transactional outbox |
+| **Frontend** | React · JavaScript · API integration · real-time interfaces |
+| **Delivery & observability** | Docker · Docker Compose · Gradle · Maven · Prometheus · Grafana · Loki · Tempo |
+
+## How I approach engineering
+
+**Design for failure.** Make retries, duplicate events, and unavailable dependencies part of the design.
+
+**Keep AI grounded.** Connect generated output to evidence and keep the core workflow independent of AI availability.
+
+**Build the complete flow.** Connect backend behavior to a usable frontend, documented setup, and reproducible failure scenarios.
 
 ---
 
-<sub>For the polished career view, project walkthroughs, and experience details → <a href="https://abhay-portfolioo.netlify.app/">portfolio</a>.</sub>
+<div align="center">
+<sub>Currently exploring distributed systems, retrieval quality, and performance through hands-on projects.</sub>
+<br/><br/>
+<a href="https://abhay-portfolioo.netlify.app/"><b>Experience, projects & writing — visit my portfolio ↗</b></a>
+</div>
