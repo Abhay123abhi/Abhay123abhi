@@ -4,9 +4,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://abhay-portfolioo.netlify.app/)
-[![Repositories](https://img.shields.io/badge/Repositories-Explore-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhay123abhi?tab=repositories)
-[![Contributions](https://img.shields.io/badge/Open_Source-Contributions-111827?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3AAbhay123abhi+-user%3AAbhay123abhi)
+[![Portfolio · Visit](./assets/badge-portfolio.svg)](https://abhay-portfolioo.netlify.app/)
+[![Repositories · Explore](./assets/badge-repositories.svg)](https://github.com/Abhay123abhi?tab=repositories)
+[![Open Source · Contributions](./assets/badge-open-source.svg)](https://github.com/pulls?q=is%3Apr+author%3AAbhay123abhi+-user%3AAbhay123abhi)
 
 </div>
 
