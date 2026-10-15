@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="294" height="28" viewBox="0 0 294 28" role="img" aria-label="Open Source - Contributions">
+<title>Open Source - Contributions</title>
+<rect width="294" height="28" rx="2" fill="#111827"/>
+<path d="M2 0H147V28H2Q0 28 0 26V2Q0 0 2 0Z" fill="#4B5563"/>
+<g transform="translate(17 14) rotate(45)"><rect x="-8" y="-8" width="16" height="16" rx="1.7" fill="#F05032"/><path d="M-3 -3V3H3M-3 -3H3" stroke="#FFF" stroke-width="1.5" stroke-linecap="round"/><circle cx="-3" cy="-3" r="1.75" fill="#FFF"/><circle cx="3" cy="-3" r="1.75" fill="#FFF"/><circle cx="3" cy="3" r="1.75" fill="#FFF"/></g>
+<g fill="#FFF" font-family="Verdana,DejaVu Sans,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.15" dominant-baseline="central"><text x="37" y="14">OPEN SOURCE</text><text x="220.5" y="14" text-anchor="middle">CONTRIBUTIONS</text></g>
+</svg>
